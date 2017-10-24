@@ -1,0 +1,4 @@
+*.mpg
+*.avi
+__pycache__/
+
