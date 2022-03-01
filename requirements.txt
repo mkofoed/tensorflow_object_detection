@@ -58,7 +58,7 @@ protobuf==3.15.0
 psutil==3.4.2
 ptyprocess==0.5
 pyasn1==0.1.9
-pycryptodome==3.4.7
+pycryptodome==3.6.6
 pycups==1.9.73
 pycurl==7.43.0
 Pygments==2.7.4
