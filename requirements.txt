@@ -110,7 +110,7 @@ usb-creator==0.3.0
 virtualenv==15.0.1
 wcwidth==0.1.7
 websocket-client==0.44.0
-Werkzeug==0.15.3
+Werkzeug==2.2.3
 widgetsnbextension==3.0.4
 xdiagnose==3.8.4.1
 xkit==0.0.0
