@@ -18,7 +18,7 @@ httplib2==0.19.0
 idna==2.0
 imutils==0.4.3
 ipykernel==4.6.1
-ipython==7.16.3
+ipython==8.10.0
 ipython-genutils==0.2.0
 ipywidgets==7.0.2
 iso-639==0.4.5
